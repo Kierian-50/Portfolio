@@ -1,12 +1,15 @@
 ---
-date: '2016-01-01'
-title: 'Fontipsums'
-github: 'https://github.com/bchiang7/fontipsums/'
-external: 'http://bchiang7.github.io/fontipsums/'
+date: '2021-03-01'
+title: 'Ant species recognition'
+github: ''
+external: ''
 tech:
-  - HTML
-  - SCSS
+  - Python
+  - tensorflow
+  - numpy
+  - matplotlib
+company: 'UIT of Vannes'
 showInProjects: true
 ---
 
-Simple website to display some of my favorite font pairings combined with some fun lorem ipsum variations found on the web.
+Built an ant species recognition artificial intelligence with Dutch biologists researchers.

@@ -1,14 +1,14 @@
 ---
-date: '2017-08-01'
-title: 'Interventions'
-github: ''
-external: 'https://interventions.design/'
+date: '2021-10-10'
+title: 'Task Manager'
+github: 'https://github.com/Kierian-50/task-manager'
+external: ''
 tech:
-  - Jekyll
-  - SCSS
-  - JS
-company: 'Scout'
-showInProjects: false
+  - Java
+  - Android
+  - SQLite
+company: 'UIT of Vannes'
+showInProjects: true
 ---
 
-Interactive marketing website for Northeastern's first annual student-led design conference, Interventions.
+Created a multi-languages task manager android application with account management. You can add, delete, display tasks.

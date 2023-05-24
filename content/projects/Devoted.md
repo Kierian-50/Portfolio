@@ -1,14 +1,15 @@
 ---
-date: '2018-12-01'
-title: 'Devoted Health'
-github: ''
-external: 'https://www.devoted.com/'
+date: '2022-12-01'
+title: 'NP Problem Solving'
+github: 'https://gitlab.esiea.fr/tirlemont/numerical-python-pb-bde'
+external: ''
 tech:
-  - Gatsby
-  - TypeScript
-  - Algolia
-company: 'Upstatement'
-showInProjects: false
+  - Python
+  - Greedy algorithm
+  - Genetic algorithm
+company: 'ESIEA'
+showInProjects: True
 ---
 
-A site for a revolutionary healthcare company, including an Algolia instant search integration
+This project aims to resolve a NP problem. The problem is to put students
+in chalet according to the capacity of the chalet and affinities of students.

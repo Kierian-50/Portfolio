@@ -1,15 +1,13 @@
 ---
-date: '2'
-title: 'Spotify Profile'
+date: '3'
+title: 'Cam Profile Measuring Bench'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+github: 'https://github.com/Kierian-50/Banc-de-releve-de-profils-de-came/'
+external: 'https://github.com/Kierian-50/Banc-de-releve-de-profils-de-came/blob/master/diapo2.odp'
 tech:
-  - React
-  - Styled Components
-  - Express
-  - Spotify API
-  - Heroku
+  - C
+  - Python
+  - Arduino
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+This bench was able to measure the cams of a camshaft automatically, you just had to install the camshaft on the bench, launch the measure and you get the curve of your cams. From that you can see the size of your cam, the opening angle, and the shape of it.

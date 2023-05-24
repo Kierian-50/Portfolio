@@ -1,13 +1,12 @@
 ---
-date: '2018-10-01'
-title: 'Flagship Pioneering'
-github: ''
-external: 'https://www.flagshippioneering.com/'
+date: '2022-02-01'
+title: 'noPython'
+github: 'https://github.com/Kierian-50/noPython'
+external: ''
 tech:
-  - Craft CMS
-  - Chart.js
-company: 'Upstatement'
-showInProjects: false
+  - C
+company: 'ESIEA'
+showInProjects: true
 ---
 
-A marketing site for an ambitious life sciences venture capital company.
+Built a snake game on the STM32 card. We added a music using a buzzer.

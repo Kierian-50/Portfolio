@@ -1,14 +1,17 @@
 ---
-date: '2017-04-03'
-title: 'myNEU Redesign'
-github: 'https://github.com/bchiang7/Redesign-myNEU'
-external: 'https://bchiang7.github.io/Redesign-myNEU/'
+date: '2019-04-03'
+title: 'Control of connected object thought secure website'
+github: ''
+external: ''
 tech:
-  - Jekyll
-  - SCSS
-  - JS
-company: 'Northeastern'
-showInProjects: false
+  - Python
+  - Flask
+  - PHPmyAdmin
+  - SQL
+  - HTML
+  - CSS
+  - TCP/IP
+showInProjects: true
 ---
 
-Student web portal prototype built after conducting multiple rounds of user testing that aimed to improve the current portal to provide students at Northeastern University with a better user experience.
+Created a secure website with account management, to control connected object thought TCP/IP.

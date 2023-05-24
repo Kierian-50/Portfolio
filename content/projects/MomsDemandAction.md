@@ -1,14 +1,14 @@
 ---
-date: '2019-11-12'
-title: 'Moms Demand Action Mobile App'
-github: ''
-external: 'https://www.upstatement.com/work/moms-demand-action/'
-ios: 'https://apps.apple.com/us/app/demand-action/id1475502876'
-android: 'https://play.google.com/store/apps/details?id=com.momsdemandaction.app'
+date: '2020-05-25'
+title: 'Zen The Initiate game in Java'
+github: 'https://github.com/Kierian-50/Projet-de-Programmation'
+external: 'https://escaleajeux.fr/jeu/zen__.0.0'
 tech:
-  - NativeScript Vue
-  - iOS
-  - Android
-company: 'Upstatement'
-showInProjects: false
+  - Java
+  - JUnit
+  - Swing
+company: 'UIT of Vannes'
+showInProjects: true
 ---
+
+Built the Zen The Initiate game in Java. This is a French board game usable in one or two player on a computer.

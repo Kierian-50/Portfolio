@@ -1,15 +1,15 @@
 ---
-date: '2016-04-01'
-title: 'CourseSource'
-github: 'https://github.com/bchiang7/WebDevSpring2016/tree/master/public/project'
-external: ''
+date: '2022-04-01'
+title: 'Weampy'
+github: 'https://gitlab.esiea.fr/fontouraseara/weampy'
+external: 'https://www.youtube.com/watch?v=n9YRf5mMlgs'
 tech:
-  - Angular
-  - Node
-  - Express
-  - MongoDB
-company: 'Northeastern'
-showInProjects: false
+  - Python
+  - Flask
+  - SQL
+  - Selenium
+company: 'ESIEA'
+showInProjects: True
 ---
 
-Web application built on the MEAN (MongoDB, Express, Angular, Node) stack with the intention of providing Northeastern students a better experience browsing the courses offered at Northeastern.
+YouTube like web application. Built to host videos, this is an entire working social network.

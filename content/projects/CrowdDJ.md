@@ -1,14 +1,14 @@
 ---
-date: '2017-03-01'
-title: 'Crowd DJ'
-github: 'https://github.com/crowddj/crowddj-react'
-external: ''
+date: '2022-12-30'
+title: 'Analyse of cascade classifier'
+github: 'https://gitlab.esiea.fr/tirlemont/cascade-classifier'
+external: 'https://gitlab.esiea.fr/tirlemont/cascade-classifier/-/blob/main/TP3_Nom_du_groupe_TIRLEMONT_BOUSQUET_LEFEVRE.pdf.pdf'
 tech:
-  - React
-  - Firebase
-  - Spotify API
-company: HackBeanpot 2017
-showInProjects: false
+  - Python
+  - KNN
+  - CNN
+company: 'ESIEA'
+showInProjects: true
 ---
 
-Web app that allows people to crowdsource a party's music queue. Allows people to request songs, upvote songs, rate songs, etc. so the DJ can see how the crowd is feeling and queue songs accordingly. Won Best UI/UX Design at Hackbeanpot 2017.
+This project was made to show the interest of using cascade classifier for ML project.

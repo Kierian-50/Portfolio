@@ -1,15 +1,12 @@
 ---
-date: '2015-10-01'
-title: 'JetBlue HumanKinda'
-github: ''
-external: 'https://us.mullenlowe.com/work/humankinda/'
+date: '2021-02-09'
+title: 'Web page that displays the weather'
+github: 'https://github.com/Kierian-50/city-weather'
+external: ''
 tech:
-  - Tumblr
   - HTML
   - CSS
   - JS
-company: 'MullenLowe'
+company: 'UIT of Vannes'
 showInProjects: false
 ---
-
-Tumblr site complementing JetBlue's HumanKinda campaign and documentary. Includes an interactive quiz to determine how "HumanKinda" you are. Learn more about this project [here](https://us.mullenlowe.com/work/humankinda/).

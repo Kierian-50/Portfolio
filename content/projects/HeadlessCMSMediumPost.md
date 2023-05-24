@@ -1,15 +1,12 @@
 ---
-date: '2019-11-12'
-title: 'Building a Headless Mobile App CMS From Scratch'
+date: '2020-04-20'
+title: 'Building two websites'
 github: ''
-external: 'https://medium.com/stories-from-upstatement/building-a-headless-mobile-app-cms-from-scratch-bab2d17744d9'
+external: 'http://melanie-osteo-animalier.fr/'
 tech:
-  - Node
-  - Express
-  - Firebase
-  - Vue
-company: 'Upstatement'
-showInProjects: true
+  - WordPress
+company: 'UIT of Vannes'
+showInProjects: false
 ---
 
-Find out how we built a custom headless CMS with Node, Express, and Firebase for a project at Upstatement
+Building of two websites using WordPress.

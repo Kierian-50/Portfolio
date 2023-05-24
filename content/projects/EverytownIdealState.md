@@ -1,13 +1,13 @@
 ---
 date: '2022-01-20'
-title: 'Everytown Gun Law Rankings'
+title: 'Crypted Serial communication protocol'
 github: ''
-external: 'https://everytownresearch.org/rankings/'
+external: ''
 tech:
-  - WordPress
-  - Timber
-  - PHP
-  - Airtable API
-company: 'Upstatement'
-showInProjects: false
+  - C
+  - OpenSSL
+company: 'ESIEA'
+showInProjects: true
 ---
+
+Built a crypted serial communication protocol RS485 one master to eight slaves (maximum) using C language and OpenSSL library in C.

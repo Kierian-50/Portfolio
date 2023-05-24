@@ -1,15 +1,12 @@
 ---
-date: '2020-07-16'
-title: 'Northeastern CSSH'
+date: '2018-04-16'
+title: 'Weeding robot'
 github: ''
-external: 'https://cssh.northeastern.edu/'
+external: ''
 tech:
-  - WordPress
-  - Timber
-  - WordPress Multisite
-  - PHP
-  - Algolia
-  - JS
-company: 'Upstatement'
+  - C
+  - Arduino
 showInProjects: false
 ---
+
+Created a weeding robot with color sensor and arduino. When it sees green, it splashes anti weed.

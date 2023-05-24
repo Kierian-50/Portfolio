@@ -1,14 +1,14 @@
 ---
-date: '2020-03-27'
-title: 'Integrating Algolia Search with WordPress Multisite'
+date: '2023-01-02'
+title: 'Software to pilot HP4142B'
 github: ''
-external: 'https://medium.com/stories-from-upstatement/integrating-algolia-search-with-wordpress-multisite-e2dea3ed449c'
+external: 'https://xdevs.com/fix/a4142b/'
 tech:
-  - Algolia
-  - WordPress
-  - PHP
-company: 'Upstatement'
+  - Python
+  - PyQt
+  - GPIB
+company: 'Thales AVS'
 showInProjects: true
 ---
 
-Building a custom multisite compatible WordPress plugin to build global search with Algolia
+Building a software which pilots the HP4142B, a modular DC Source/Monitor. I create an algorithm which allows to say if a diode is respecting the datasheet.

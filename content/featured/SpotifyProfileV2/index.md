@@ -1,16 +1,15 @@
 ---
-date: '3'
-title: 'Build a Spotify Connected App'
+date: '2'
+title: 'Dashcam for Driving School'
 cover: './course-card.png'
-external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
-cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+external: 'https://youtu.be/HDmwqnP8FV4'
+cta: 'https://youtu.be/HDmwqnP8FV4'
 tech:
-  - React
-  - Express
-  - Spotify API
-  - Styled Components
+  - Python
+  - Java
+  - PHP
+  - Kotlin
+  - Raspberry Pi
 ---
 
-Having struggled with understanding how the Spotify OAuth flow works, I made the course I wish I could have had.
-
-Unlike tutorials that only cover a few concepts and leave you with half-baked GitHub repositories, this course covers everything from explaining the principles of REST APIs to implementing Spotify's OAuth flow and fetching API data in a React app. By the end of the course, you’ll have an app deployed to the internet you can add to your portfolio.
+I create a POC for a dashcam based on Raspberry Pi controlled by a phone app. With my team, we create a full version dashcam controlled by an app, in partnership with Swift Navigation and Deutsch Telekom. It allows to record the video, the GPS position, acceleration and send those data to a server. The teacher could mark on the app each driving incident. After the driving lesson, the teacher and the student could rewatch the trip especially where the teacher puts the marks.

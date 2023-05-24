@@ -1,14 +1,14 @@
 ---
-date: '2017-12-01'
-title: 'Apple Music Embeddable Web Player Widget'
+date: '2022-06-01'
+title: 'Software for Agilent 1670G'
 github: ''
-external: 'https://tools.applemusic.com/en-us'
+external: 'https://www.keysight.com/us/en/product/1670G/standalone-logic-analyzer.html'
 tech:
-  - MusicKit.js
-  - JS
-  - SCSS
-company: 'Apple'
+  - Python
+  - PyQt
+  - GPIB
+company: 'Thales AVS'
 showInProjects: true
 ---
 
-Embeddable web player widget for Apple Music that lets users log in and listen to full song playback in the browser leveraging [MusicKit.js](https://developer.apple.com/documentation/musickitjs). Read more about this project on [9to5Mac](https://9to5mac.com/2018/06/03/apple-music-embeddable-web-player-listen-browser/).
+Building a software which pilots the Agilent 1670G, a logic analyzer. It's mainly used to program memory.

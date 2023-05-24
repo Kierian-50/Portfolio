@@ -1,18 +1,13 @@
 ---
-date: '2021-09-01'
-title: 'Koala Health'
-github: ''
-external: 'https://www.koala.health/'
+date: '2020-05-04'
+title: 'Battleship game in Java'
+github: 'https://github.com/Kierian-50/BattleShip'
+external: ''
 tech:
-  - Next.js
-  - TypeScript
-  - Redux Toolkit
-  - Stripe
-  - Algolia
-  - Firebase Auth
-  - Formik
-  - Yup
-  - Vercel
-company: 'Upstatement'
-showInProjects: false
+  - Java
+  - JFrame
+company: 'UIT of Vannes'
+showInProjects: true
 ---
+
+Built a battleship game in Java, we can play in command line and in a window.

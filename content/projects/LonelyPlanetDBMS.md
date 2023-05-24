@@ -1,15 +1,12 @@
 ---
-date: '2017-06-22'
-title: 'Lonely Planet DBMS'
-github: 'https://github.com/bchiang7/CS3200-Project'
+date: '2021-03-12'
+title: 'Battleship in C++'
+github: 'https://github.com/Kierian-50/battleship-cpp'
 external: ''
 tech:
-  - Python
-  - MySQL
-  - Flask
-  - JS
-company: 'Northeastern'
+  - C++ with g++ compiler
+company: 'UIT of Vannes'
 showInProjects: false
 ---
 
-A simple web application that allows users to filter through and leave reviews in a database of Lonely Planet's Top 500 Travel Destinations.
+Built a battleship game in C++, we can play only in command line.

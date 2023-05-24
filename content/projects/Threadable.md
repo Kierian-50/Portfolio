@@ -1,13 +1,15 @@
 ---
-date: '2022-09-08'
-title: 'Threadable'
+date: '2021-03-08'
+title: 'Dashcam for Driving School'
 github: ''
-external: 'https://www.threadablebooks.com/'
-ios: 'https://apps.apple.com/us/app/threadable/id1550995547'
+external: ''
+ios: ''
 tech:
-  - React Native
-  - Ruby on Rails
-  - Firebase
-company: 'Upstatement'
+  - Python
+  - Java
+  - PHP
+  - Kotlin
+  - Raspberry Pi
+company: 'Smartmoov'
 showInProjects: false
 ---

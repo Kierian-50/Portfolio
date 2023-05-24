@@ -1,11 +1,11 @@
 ---
-date: '2020-09-15'
-title: 'Michelle Wu for Boston Grassroots Toolkit'
-github: ''
-external: 'https://toolkit.michelleforboston.com/'
+date: '2022-01-15'
+title: 'Connect Four game in C'
+github: 'https://github.com/Kierian-50/connect-four'
+external: ''
 tech:
-  - Gatsby
-  - Styled Components
-company: 'Upstatement'
+  - C
+  - SDL2
+company: 'ESIEA'
 showInProjects: false
 ---

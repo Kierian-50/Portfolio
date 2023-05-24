@@ -1,15 +1,15 @@
 ---
 date: '1'
-title: 'Halcyon Theme'
+title: 'Luminance Test Bench'
 cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+external: 'https://www.thalesgroup.com/en/aerospace'
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - Electronic design
+  - Python
+  - PyQT
+  - FTDI
+  - I2C
+  - Raspberry Pi
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+From the electronic board design to the piloting software of the bench, I realised this bench which allows to characterize the luminance of the legend and the return of order of the Flight Control Unit buttons.

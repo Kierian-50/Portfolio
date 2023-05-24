@@ -125,8 +125,6 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
-
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
       <h2 className="numbered-heading">About Me</h2>
@@ -135,38 +133,30 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hello! My name is Kierian and I enjoy creating things no matter if it’s an algorithm,
+              a software, an electronic device like a robot. My interest in this field started in
+              high school, I was very curious about it, so I decided to make my first robot: a
+              wedding robot, then the year after I created one of the only automated camshaft height
+              measurement bench: it was quite as a revelation for me.
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              I first obtained my BTEC in Computer Science from the{' '}
+              <a href="https://www.iutvannes.fr/">University of Vannes</a> in apprenticeship in a{' '}
+              <a href="https://www.linkedin.com/company/smartmoovfr/?originalSubdomain=fr">
+                start-up from Rennes
+              </a>
+              . Then I joined the <a href="https://www.esiea.fr/">ESIEA engineering school</a> with
+              a specialisation in embedded systems, also in apprenticeship in a{' '}
+              <a href="https://www.thalesgroup.com/en/aerospace">large French avionics company</a>.
+              I had the chance to discover two very different working environments.
             </p>
 
             <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              In the future, I would like to do a PhD in embedded systems in order to work in
+              research. That's why, in parallel to my job, I work on small research projects.
             </p>
-
-            <p>Here are a few technologies I’ve been working with recently:</p>
           </div>
-
-          <ul className="skills-list">
-            {skills && skills.map((skill, i) => <li key={i}>{skill}</li>)}
-          </ul>
         </StyledText>
 
         <StyledPic>
