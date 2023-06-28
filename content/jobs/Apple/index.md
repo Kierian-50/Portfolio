@@ -16,4 +16,4 @@ url: 'https://www.iutvannes.fr/'
 - I discovered the base of computer vision. I built an ant species recognition AI with Dutch researchers.
 - I learnt C++ and made a battleship game.
 - I learnt the base of web development with JavaScript, NodeJS and angular.
-- With two others classmate, we did algorithm lessons to a class of seven years old children.
+- With two others classmates, we did algorithm lessons to a class of seven years old children.

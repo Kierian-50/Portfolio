@@ -133,21 +133,22 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Kierian and I enjoy creating things no matter if it’s an algorithm,
-              a software, an electronic device like a robot. My interest in this field started in
-              high school, I was very curious about it, so I decided to make my first robot: a
-              wedding robot, then the year after I created one of the only automated camshaft height
-              measurement bench: it was quite as a revelation for me.
+              Hello! My name is Kierian and I enjoy creating things whether it be an algorithm,
+              software, or any electronic device such as a robot. My interest started in high
+              school, when I was very curious about it, so I decided to make my first robot: a
+              weeding robot. A year after, I created a novel automated camshaft height measurement
+              bench. It was quite as a revelation for me!
             </p>
 
             <p>
-              I first obtained my BTEC in Computer Science from the{' '}
-              <a href="https://www.iutvannes.fr/">University of Vannes</a> in apprenticeship in a{' '}
+              I first obtained my 2-year technical university diploma in Computer Science from the{' '}
+              <a href="https://www.iutvannes.fr/">University of Vannes</a> with an apprenticeship in
+              a{' '}
               <a href="https://www.linkedin.com/company/smartmoovfr/?originalSubdomain=fr">
-                start-up from Rennes
+                start-up in Rennes
               </a>
               . Then I joined the <a href="https://www.esiea.fr/">ESIEA engineering school</a> with
-              a specialisation in embedded systems, also in apprenticeship in a{' '}
+              a specialisation in embedded systems, with a simultaneous apprenticeship in a{' '}
               <a href="https://www.thalesgroup.com/en/aerospace">large French avionics company</a>.
               I had the chance to discover two very different working environments.
             </p>

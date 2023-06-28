@@ -11,5 +11,5 @@ company: 'ESIEA'
 showInProjects: True
 ---
 
-This project aims to resolve a NP problem. The problem is to put students
+This project aims to resolve an NP problem. The problem is to put students
 in chalet according to the capacity of the chalet and affinities of students.

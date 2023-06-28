@@ -11,4 +11,4 @@ company: 'ESIEA'
 showInProjects: true
 ---
 
-This project was made to show the interest of using cascade classifier for ML project.
+This project was done to show the interest of using cascade classifier for ML project.

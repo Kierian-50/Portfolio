@@ -11,4 +11,4 @@ company: 'UIT of Vannes'
 showInProjects: true
 ---
 
-Built the Zen The Initiate game in Java. This is a French board game usable in one or two player on a computer.
+Built the Zen The Initiate game in Java. This is a French board game usable in one or two players on a computer.
